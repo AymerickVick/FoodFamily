@@ -1,0 +1,919 @@
+[
+  {
+    "name": "bananes vertes non mûres",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Fruits"
+  },
+  {
+    "name": "poisson fumé ou viande",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Viande"
+  },
+  {
+    "name": "pâte d'arachide grillée",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Autres"
+  },
+  {
+    "name": "huile de palme",
+    "quantity": 0,
+    "unit": "cuillères à soupe",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "oignon blanc",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "piment",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "persil",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "céleri",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "ail",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "poivre",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "sel ou cubes d'assaisonnement",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "gingembre (njinja)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "bouquet garni",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Autres"
+  },
+  {
+    "name": "haricots blancs",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "eau",
+    "quantity": 0,
+    "unit": "ml",
+    "prix": "100",
+    "category": "Autres"
+  },
+  {
+    "name": "sel",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "oignon moyen",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "huile de friture",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "tomates",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "huile d'arachide",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "haricots rouges",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "poisson fumé",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Poisson"
+  },
+  {
+    "name": "oignons",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "huile de palme rouge",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "maïs frais ou en boîte",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "crevettes séchées (madjanga)",
+    "quantity": 0,
+    "unit": "poignée",
+    "prix": "100",
+    "category": "Poisson"
+  },
+  {
+    "name": "kanwa (sel gemme)",
+    "quantity": 0,
+    "unit": "petit morceau",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "maïs frais ou sec",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "arachides",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Autres"
+  },
+  {
+    "name": "feuilles de bananier",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Autres"
+  },
+  {
+    "name": "macabos blancs",
+    "quantity": 0,
+    "unit": "gros",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "feuilles de macabo",
+    "quantity": 0,
+    "unit": "paquets",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "écrevisses",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Poisson"
+  },
+  {
+    "name": "gingembre",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "rondelles",
+    "quantity": 0,
+    "unit": "cc",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "poivre blanc",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "cubes d'assaisonnement",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "feuilles de eru ou okok",
+    "quantity": 0,
+    "unit": "tasses",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "feuilles d'épinards",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "écrevisses (mandjanga)",
+    "quantity": 0,
+    "unit": "tasse",
+    "prix": "100",
+    "category": "Poisson"
+  },
+  {
+    "name": "peau de bœuf",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Viande"
+  },
+  {
+    "name": "viande de bœuf",
+    "quantity": 0,
+    "unit": "kg",
+    "prix": "100",
+    "category": "Viande"
+  },
+  {
+    "name": "piment",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "viande hachée",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Viande"
+  },
+  {
+    "name": "amarante (folong)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "blanc de poireau",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "oignon",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "tomate",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "huile végétale",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "gombo frais",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "sel gemme (kanwa)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "cubes Maggi",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "échalotes ou oignons",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "tomate fraîche",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "carottes",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "haricots verts",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "poireau",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "poivron",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "crevettes séchées",
+    "quantity": 0,
+    "unit": "bol",
+    "prix": "100",
+    "category": "Poisson"
+  },
+  {
+    "name": "feuilles de gombo",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "feuilles de manioc pilées",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "haricots blancs",
+    "quantity": 0,
+    "unit": "kg",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "huile de palme rouge",
+    "quantity": 0,
+    "unit": "cl",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "ficelle",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Autres"
+  },
+  {
+    "name": "viande de porc",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Viande"
+  },
+  {
+    "name": "basilic",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "piments",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "bongolo (bongo)",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "pèbès",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "feuilles de gingembre (odzom)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "macabo blancs",
+    "quantity": 0,
+    "unit": "kg",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "huile de cuisson",
+    "quantity": 0,
+    "unit": "ml",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "kpem (feuilles de manioc)",
+    "quantity": 0,
+    "unit": "paquets",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "noix de palme bien rouges",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Fruits"
+  },
+  {
+    "name": "aubergines",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "ohomis râpé (écorce d'arbre)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Autres"
+  },
+  {
+    "name": "sucre ou banane mûre",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Fruits"
+  },
+  {
+    "name": "manioc ou macabos",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "poisson (machoirons, silures, carpes ou anguilles)",
+    "quantity": 0,
+    "unit": "kg",
+    "prix": "100",
+    "category": "Poisson"
+  },
+  {
+    "name": "djansan",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "poudre de mbongo",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "poudre d'écorce d'arbre à ail (hiomi)",
+    "quantity": 0,
+    "unit": "pincée",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "cube de bouillon",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "graines de courges séchées",
+    "quantity": 0,
+    "unit": "kg",
+    "prix": "100",
+    "category": "Autres"
+  },
+  {
+    "name": "morue fumée",
+    "quantity": 0,
+    "unit": "tas",
+    "prix": "100",
+    "category": "Poisson"
+  },
+  {
+    "name": "macabo",
+    "quantity": 0,
+    "unit": "kg",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "poisson fumé (bifaga)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Poisson"
+  },
+  {
+    "name": "maquereaux",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Poisson"
+  },
+  {
+    "name": "noyaux de mangue sauvage",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Fruits"
+  },
+  {
+    "name": "farine de maïs",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "tiges de Nkui (écorces de triumfetta pentandra)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Autres"
+  },
+  {
+    "name": "Olom ou Hiomi (écorces de l'arbre ail)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "Mendak (graines de Monodora myristica)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "Melam (petits fruits voisins du poivre)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "Nsà nshu (petits fruits voisins du poivre)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "Nsù'nflù (fragments d'une racine tortueuse)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Autres"
+  },
+  {
+    "name": "Sùsùe (aubergines locales)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "Tshùtshe (fruit du Tetrapleura tetraptera)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Fruits"
+  },
+  {
+    "name": "Sô (poivre sauvage)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "condiments divers",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Autres"
+  },
+  {
+    "name": "riz",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "eau tiède",
+    "quantity": 0,
+    "unit": "ml",
+    "prix": "100",
+    "category": "Autres"
+  },
+  {
+    "name": "écrevisses ou poisson fumé ou viande fumée",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Poisson"
+  },
+  {
+    "name": "filets de bar",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Poisson"
+  },
+  {
+    "name": "échalote",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "tomate moyenne",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "citron vert",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Fruits"
+  },
+  {
+    "name": "feuilles de messep (basilic)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "jarret de porc",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Viande"
+  },
+  {
+    "name": "citron",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Fruits"
+  },
+  {
+    "name": "feuilles Messep (basilic tropical)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "feuilles d'Odzom (ou laurier)",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "feuilles de Ndolé",
+    "quantity": 0,
+    "unit": "kg",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "huile",
+    "quantity": 0,
+    "unit": "litre",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "pâte d'arachides",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Autres"
+  },
+  {
+    "name": "piment rouge",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "feuilles d'Ikok prédécoupées",
+    "quantity": 0,
+    "unit": "tas",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "morue fumée",
+    "quantity": 0,
+    "unit": "tas",
+    "prix": "100",
+    "category": "Poisson"
+  },
+  {
+    "name": "cubes Maggi crevette",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "Okok découpé",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "noix de palme",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Fruits"
+  },
+  {
+    "name": "sucre",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "poisson",
+    "quantity": 0,
+    "unit": "kg",
+    "prix": "100",
+    "category": "Poisson"
+  },
+  {
+    "name": "ésèsè",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "pèbè",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "plantains mûrs",
+    "quantity": 0,
+    "unit": "doigts",
+    "prix": "100",
+    "category": "Fruits"
+  },
+  {
+    "name": "pommes de terre",
+    "quantity": 0,
+    "unit": "kg",
+    "prix": "100",
+    "category": "Légumes"
+  },
+  {
+    "name": "farine",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "levure",
+    "quantity": 0,
+    "unit": "sachet",
+    "prix": "100",
+    "category": "Épicerie"
+  },
+  {
+    "name": "beurre",
+    "quantity": 0,
+    "unit": "g",
+    "prix": "100",
+    "category": "Laitiers"
+  },
+  {
+    "name": "œufs",
+    "quantity": 0,
+    "unit": "",
+    "prix": "100",
+    "category": "Autres"
+  }
+]

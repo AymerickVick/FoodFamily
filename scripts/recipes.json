@@ -1,0 +1,888 @@
+[
+  {
+    "name": "Banane Malaxée",
+    "ingredients": [
+      { "name": "bananes vertes non mûres", "quantity": "12", "unit": "", "prix": "100" },
+      { "name": "poisson fumé ou viande", "quantity": "500", "unit": "g", "prix": "100" },
+      { "name": "pâte d'arachide grillée", "quantity": "100", "unit": "g", "prix": "100" },
+      { "name": "huile de palme", "quantity": "3", "unit": "cuillères à soupe", "prix": "100" },
+      { "name": "oignon blanc", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "piment", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "persil", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "céleri", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "ail", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "poivre", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "sel ou cubes d'assaisonnement", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "gingembre (njinja)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "bouquet garni", "quantity": "1", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Préparez le poisson fumé et mettez-le dans une casserole avec de l'eau, faites bouillir pendant environ 10 minutes.",
+      "Épluchez les bananes en faisant une entaille dans la peau le long de la banane et pelez-la. Réservez.",
+      "Diluez la pâte d'arachide avec de l'eau pour obtenir une sauce.",
+      "Pelez et émincez l'oignon. Lavez et coupez le piment en petits morceaux.",
+      "Dans une cocotte sur feu doux, chauffez 1 cuillère à soupe d'huile et faites revenir l'ail, l'oignon, le piment, le persil et le céleri jusqu'à ce que l'oignon soit translucide.",
+      "Ajoutez les bananes entières, le poisson fumé égoutté, couvrez et laissez cuire 10 minutes en remuant occasionnellement.",
+      "Ajoutez le gingembre écrasé, le bouquet garni, la sauce d'arachides, sel, cube et poivre. Mélangez et laissez mijoter 10 minutes.",
+      "Laissez mijoter à couvert sur feu doux pendant 30 minutes."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "1 heure",
+    "servings": 4,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Beignets Koki",
+    "ingredients": [
+      { "name": "haricots blancs", "quantity": "250", "unit": "g", "prix": "100" },
+      { "name": "eau", "quantity": "50", "unit": "ml", "prix": "100" },
+      { "name": "sel", "quantity": "10", "unit": "g", "prix": "100" },
+      { "name": "piment", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "oignon moyen", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "huile de friture", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "tomates", "quantity": "2", "unit": "", "prix": "100" },
+      { "name": "persil", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "céleri", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "huile d'arachide", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "poivre", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Recouvrez les haricots blancs d'eau et laissez-les tremper pendant 6 heures.",
+      "Pressez les grains pour ôter la pellicule, puis rincez.",
+      "Écrasez finement les haricots, le piment et l'oignon avec l'eau pour obtenir une pâte compacte.",
+      "Formez des boules de pâte et faites-les frire dans l'huile chaude jusqu'à ce qu'elles soient dorées.",
+      "Pour la sauce tomate : hachez l'oignon, faites-le revenir dans l'huile jusqu'à ce qu'il soit transparent.",
+      "Écrasez les tomates, céleri, persil, piment et poivre, ajoutez aux oignons avec 1/2 verre d'eau, laissez cuire 10 minutes.",
+      "Servez les beignets avec la sauce tomate pimentée."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "20 minutes",
+    "servings": 4,
+    "category": "Accompagnement"
+  },
+  {
+    "name": "Corn Tchap",
+    "ingredients": [
+      { "name": "haricots rouges", "quantity": "200", "unit": "g", "prix": "100" },
+      { "name": "poisson fumé", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "tomates", "quantity": "2", "unit": "", "prix": "100" },
+      { "name": "oignons", "quantity": "2", "unit": "", "prix": "100" },
+      { "name": "huile de palme rouge", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "maïs frais ou en boîte", "quantity": "200", "unit": "g", "prix": "100" },
+      { "name": "crevettes séchées (madjanga)", "quantity": "1", "unit": "poignée", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "kanwa (sel gemme)", "quantity": "1", "unit": "petit morceau", "prix": "100" }
+    ],
+    "preparation": [
+      "Trempez les haricots rouges dans l'eau pendant 6 heures.",
+      "Égrainez le maïs et faites-le bouillir 10 minutes avec le kanwa, puis égouttez et dépulpez.",
+      "Faites cuire les haricots, égouttez et réservez.",
+      "Préparez le poisson fumé, hachez les oignons, écrasez les tomates et le madjanga.",
+      "Chauffez l'huile de palme, faites revenir les oignons, puis la tomate pendant 5 minutes.",
+      "Ajoutez le poisson fumé, laissez mijoter 5 minutes.",
+      "Ajoutez les haricots, puis le maïs, mélangez bien.",
+      "Ajoutez le madjanga et un peu d'eau, rectifiez l'assaisonnement et laissez mijoter 15 minutes."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "45 minutes",
+    "servings": 4,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Ekomba (Gâteau Maïs)",
+    "ingredients": [
+      { "name": "maïs frais ou sec", "quantity": "600", "unit": "g", "prix": "100" },
+      { "name": "arachides", "quantity": "200", "unit": "g", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "feuilles de bananier", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Lavez et égrainez le maïs, écrasez les grains tendrement.",
+      "Grillez les arachides légèrement, écrasez-les pour obtenir une pâte.",
+      "Mettez la pâte de maïs dans une assiette, ajoutez de l'eau progressivement en remuant.",
+      "Incorporez la pâte d'arachides, mélangez jusqu'à homogénéité, salez.",
+      "Ramollissez les feuilles de bananier, découpez-les en carrés.",
+      "Déposez des tas de pâte sur les feuilles, formez des paquets hermétiques.",
+      "Faites cuire à la vapeur pendant 2 heures."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "2 heures",
+    "servings": 6,
+    "category": "Accompagnement"
+  },
+  {
+    "name": "Ekwang",
+    "ingredients": [
+      { "name": "macabos blancs", "quantity": "16", "unit": "gros", "prix": "100" },
+      { "name": "feuilles de macabo", "quantity": "12", "unit": "paquets", "prix": "100" },
+      { "name": "poisson fumé", "quantity": "4", "unit": "kg", "prix": "100" },
+      { "name": "huile de palme", "quantity": "0.25", "unit": "litre", "prix": "100" },
+      { "name": "écrevisses", "quantity": "50", "unit": "g", "prix": "100" },
+      { "name": "oignons", "quantity": "3", "unit": "", "prix": "100" },
+      { "name": "piment", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "ail", "quantity": "4", "unit": "gousses", "prix": "100" },
+      { "name": "gingembre", "quantity": "10", "unit": "g", "prix": "100" },
+      { "name": "rondelles", "quantity": "2", "unit": "cc", "prix": "100" },
+      { "name": "poivre blanc", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "cubes d'assaisonnement", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Pelez et râpez les macabos, ajoutez du sel à la pâte et mélangez.",
+      "Coupez les feuilles de macabo en morceaux (4 cm x 2 cm), lavez-les.",
+      "Enduisez l'intérieur d'une cocotte d'huile de palme.",
+      "Placez une cuillerée de macabo râpé sur une feuille, roulez comme une cigarette.",
+      "Cuisez à feu doux avec de l'eau pendant 40 minutes.",
+      "Nettoyez le poisson fumé, faites-le cuire avec les condiments.",
+      "Ajoutez le poisson cuit, son bouillon, les condiments écrasés, les écrevisses.",
+      "Laissez cuire 20 minutes supplémentaires."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "1 heure",
+    "servings": 6,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Eru",
+    "ingredients": [
+      { "name": "feuilles de eru ou okok", "quantity": "3", "unit": "tasses", "prix": "100" },
+      { "name": "feuilles d'épinards", "quantity": "750", "unit": "g", "prix": "100" },
+      { "name": "écrevisses (mandjanga)", "quantity": "1", "unit": "tasse", "prix": "100" },
+      { "name": "poisson fumé", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "peau de bœuf", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "viande de bœuf", "quantity": "1", "unit": "kg", "prix": "100" },
+      { "name": "huile de palme", "quantity": "0.25", "unit": "litre", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "piment", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "eau", "quantity": "200", "unit": "ml", "prix": "100" }
+    ],
+    "preparation": [
+      "Lavez et découpez tous vos légumes.",
+      "Faites bouillir la peau de bœuf pendant 30 min, puis ajoutez la viande.",
+      "Laissez bouillir 10 minutes, ajoutez le poisson fumé trempé.",
+      "Dans une marmite, incorporez les épinards, après 10 min ajoutez le eru.",
+      "Ajoutez la viande et le poisson, remuez et laissez mijoter 5 min.",
+      "Incorporez le jus de cuisson et l'huile de palme, laissez mijoter 15 min.",
+      "Ajoutez les écrevisses et laissez mijoter 5 à 10 min."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "1 heure 20 minutes",
+    "servings": 6,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Folong Sauté à la Viande Hachée",
+    "ingredients": [
+      { "name": "viande hachée", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "amarante (folong)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "blanc de poireau", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "oignon", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "tomate", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "piment", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "poivre blanc", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "ail", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "huile végétale", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Découpez le folong. Faites bouillir avec du sel gemme si c'est de l'amarante.",
+      "Découpez tomates, ail, oignons, blancs de poireaux, piment. Écrasez le poivre blanc.",
+      "Rincez le folong pour enlever le sable.",
+      "Versez l'huile végétale dans une casserole, faites chauffer puis versez les condiments.",
+      "Ajoutez la viande hachée, remuez et faites cuire 7 minutes.",
+      "Versez le folong, remuez et laissez cuire 5 à 8 minutes.",
+      "Servez avec du plantain mûr bouilli ou de la patate douce."
+    ],
+    "prepTime": "45 minutes",
+    "cookTime": "15 minutes",
+    "servings": 4,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Gombo Bœuf",
+    "ingredients": [
+      { "name": "viande de bœuf", "quantity": "500", "unit": "g", "prix": "100" },
+      { "name": "gombo frais", "quantity": "100", "unit": "g", "prix": "100" },
+      { "name": "sel gemme (kanwa)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "poivre", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "cubes Maggi", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "huile d'arachide", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "oignon", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "ail", "quantity": "1", "unit": "gousse", "prix": "100" }
+    ],
+    "preparation": [
+      "Coupez la viande en morceaux.",
+      "Faites chauffer l'huile, rissolez l'oignon et l'ail, ajoutez la viande.",
+      "Laissez brunir jusqu'à ce que le jus tarisse, ajoutez de l'eau à hauteur, cuisez 1 heure.",
+      "Hachez finement le gombo.",
+      "Ajoutez de l'eau, le sel gemme en poudre, le gombo, assaisonnez et cuisez 30 minutes sans couvercle."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "1 heure 40 minutes",
+    "servings": 4,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Haricots en Sauce",
+    "ingredients": [
+      { "name": "haricots rouges", "quantity": "1", "unit": "kg", "prix": "100" },
+      { "name": "échalotes ou oignons", "quantity": "3", "unit": "", "prix": "100" },
+      { "name": "tomate fraîche", "quantity": "100", "unit": "g", "prix": "100" },
+      { "name": "ail", "quantity": "1", "unit": "gousse", "prix": "100" },
+      { "name": "carottes", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "haricots verts", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "poireau", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "poivron", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "céleri", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "piment", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "sel ou cubes d'assaisonnement", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "poivre", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "huile d'arachide", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Trempez les haricots dans l'eau la veille.",
+      "Égouttez, lavez et faites cuire les haricots 1h (ou 20-30mn en cocotte minute).",
+      "Écrasez finement l'oignon, la tomate, le piment, poivron, céleri et ail.",
+      "Égouttez et rincez les haricots cuits.",
+      "Faites revenir l'oignon et le poivron dans l'huile 5 minutes.",
+      "Ajoutez les condiments écrasés, laissez mijoter 5 minutes.",
+      "Ajoutez les carottes et haricots verts en dés.",
+      "Versez les haricots, mélangez et laissez cuire 10 minutes.",
+      "Ajoutez l'huile selon votre convenance."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "1 heure 30 minutes",
+    "servings": 6,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Kelen Kelen",
+    "ingredients": [
+      { "name": "eau", "quantity": "1", "unit": "litre", "prix": "100" },
+      { "name": "poisson fumé", "quantity": "200", "unit": "g", "prix": "100" },
+      { "name": "crevettes séchées", "quantity": "1", "unit": "bol", "prix": "100" },
+      { "name": "feuilles de gombo", "quantity": "250", "unit": "g", "prix": "100" },
+      { "name": "feuilles de manioc pilées", "quantity": "250", "unit": "g", "prix": "100" }
+    ],
+    "preparation": [
+      "Trempez le poisson fumé et les crevettes. Réservez.",
+      "Mettez les légumes dans une casserole.",
+      "Ajoutez 1l d'eau et laissez cuire 20 minutes en remuant souvent.",
+      "Ajoutez le poisson et les crevettes, mélangez et laissez cuire 20 minutes.",
+      "Servez avec du fufu de manioc, de maïs ou autre complément."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "40 minutes",
+    "servings": 4,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Koki ou Gâteau de Cornille",
+    "ingredients": [
+      { "name": "haricots blancs", "quantity": "1", "unit": "kg", "prix": "100" },
+      { "name": "eau", "quantity": "1", "unit": "litre", "prix": "100" },
+      { "name": "huile de palme rouge", "quantity": "60", "unit": "cl", "prix": "100" },
+      { "name": "feuille de bananier", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "piment", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Trempez les grains de koki dans l'eau durant 6 heures, émondez-les.",
+      "Préparez les feuilles de bananier.",
+      "Écrasez finement les grains de koki, versez dans une terrine.",
+      "Faites chauffer l'huile de palme, versez la moitié dans la pâte de koki.",
+      "Mélangez doucement, ajoutez le reste d'huile et la moitié de l'eau.",
+      "Ajoutez le reste d'eau, la pâte doit être fluide comme une crème.",
+      "Versez une portion dans les feuilles de bananier préparées.",
+      "Faites cuire 3h à feu moyen."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "3 heures 30 minutes",
+    "servings": 4,
+    "category": "Accompagnement"
+  },
+  {
+    "name": "Kondre de Porc",
+    "ingredients": [
+      { "name": "viande de porc", "quantity": "500", "unit": "g", "prix": "100" },
+      { "name": "tomates", "quantity": "4", "unit": "", "prix": "100" },
+      { "name": "basilic", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "poivre", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "ail", "quantity": "2", "unit": "gousses", "prix": "100" },
+      { "name": "gingembre", "quantity": "50", "unit": "g", "prix": "100" },
+      { "name": "huile de palme rouge", "quantity": "2", "unit": "cuillères à soupe", "prix": "100" },
+      { "name": "plantains non mûrs", "quantity": "2.5", "unit": "kg", "prix": "100" },
+      { "name": "persil", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "piments", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "bongolo (bongo)", "quantity": "10", "unit": "g", "prix": "100" },
+      { "name": "pèbès", "quantity": "2", "unit": "", "prix": "100" },
+      { "name": "feuilles de gingembre (odzom)", "quantity": "4", "unit": "", "prix": "100" },
+      { "name": "oignons", "quantity": "2", "unit": "", "prix": "100" },
+      { "name": "cubes Maggi", "quantity": "2", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Écrasez finement tous les condiments : tomates, persil, basilic, pèbè, piments, ail, gingembre, 1 oignon et le poivre.",
+      "Coupez finement 1 oignon et réservez. Épluchez les plantains et réservez dans l'eau.",
+      "Coupez la viande en petits cubes, lavez et égouttez.",
+      "Mettez l'huile de palme dans une casserole, ajoutez l'oignon émincé et les cubes.",
+      "Versez les condiments écrasés, la viande, les feuilles de gingembre et les plantains.",
+      "Couvrez largement d'eau et laissez mijoter 1h30 à feu doux.",
+      "Servez chaud, sans complément."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "1 heure 30 minutes",
+    "servings": 6,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Kouakoukou Sauce Blanche",
+    "ingredients": [
+      { "name": "macabo blancs", "quantity": "2", "unit": "kg", "prix": "100" },
+      { "name": "huile de palme", "quantity": "2", "unit": "cuillères à soupe", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "eau", "quantity": "750", "unit": "ml", "prix": "100" },
+      { "name": "feuilles de bananier", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "arachides", "quantity": "300", "unit": "g", "prix": "100" },
+      { "name": "poissons fumés", "quantity": "6", "unit": "", "prix": "100" },
+      { "name": "crevettes séchées", "quantity": "50", "unit": "g", "prix": "100" },
+      { "name": "oignons", "quantity": "2", "unit": "", "prix": "100" },
+      { "name": "tomates", "quantity": "5", "unit": "", "prix": "100" },
+      { "name": "piment", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "ail", "quantity": "2", "unit": "gousses", "prix": "100" },
+      { "name": "gingembre", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "huile de cuisson", "quantity": "100", "unit": "ml", "prix": "100" }
+    ],
+    "preparation": [
+      "Épluchez et lavez le macabo pour enlever le mucilage, râpez finement.",
+      "Ajoutez 500ml d'eau, sel et 1 cuillère d'huile de palme, mélangez énergiquement.",
+      "Ajoutez 250ml d'eau et mélangez à nouveau.",
+      "Ramollissez les feuilles de bananier dans l'eau bouillante.",
+      "Emballez la pâte de macabo dans les feuilles.",
+      "Faites cuire à la vapeur 1h à feu moyen.",
+      "Pour la sauce : triez et écrasez les crevettes séchées.",
+      "Faites bouillir les arachides 3-5 minutes, ôtez la peau et écrasez avec tomate, oignon, ail, gingembre.",
+      "Faites revenir l'oignon dans l'huile, ajoutez la purée, le poisson et les crevettes.",
+      "Ajoutez de l'eau, laissez cuire 30 minutes à feu doux en remuant."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "1 heure 30 minutes",
+    "servings": 6,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Kpem Salé (Sauce Kpem + Viande)",
+    "ingredients": [
+      { "name": "viande ou poisson", "quantity": "200", "unit": "g", "prix": "100" },
+      { "name": "eau", "quantity": "3", "unit": "verres", "prix": "100" },
+      { "name": "huile de palme", "quantity": "2", "unit": "cuillères à soupe", "prix": "100" },
+      { "name": "feuilles de manioc pilées", "quantity": "400", "unit": "g", "prix": "100" },
+      { "name": "pâte d'arachides", "quantity": "200", "unit": "g", "prix": "100" }
+    ],
+    "preparation": [
+      "Faites cuire la viande avec un oignon et du sel pendant 1h.",
+      "Apprêtez les feuilles de manioc (pilez-les si elles sont fraîches).",
+      "Mettez les feuilles dans une casserole avec 2 verres d'eau, cuisez 10-15mn à feu doux en remuant.",
+      "Ajoutez la viande cuite dans la casserole.",
+      "Diluez la pâte d'arachide avec le jus de viande, versez dans la casserole.",
+      "Mélangez et laissez cuire 10 minutes.",
+      "Ajoutez l'huile de palme, salez et laissez cuire 15 minutes.",
+      "Servez chaud avec du manioc bouilli."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "1 heure 30 minutes",
+    "servings": 4,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Kpem Sans Sel",
+    "ingredients": [
+      { "name": "kpem (feuilles de manioc)", "quantity": "2", "unit": "paquets", "prix": "100" },
+      { "name": "noix de palme bien rouges", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "aubergines", "quantity": "3", "unit": "", "prix": "100" },
+      { "name": "ohomis râpé (écorce d'arbre)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "sucre ou banane mûre", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "manioc ou macabos", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Épluchez le manioc et faites-le cuire pendant 45 min.",
+      "Pilez les feuilles de kpem après les avoir arrachées.",
+      "Mettez-les dans une marmite avec de l'eau et les aubergines.",
+      "Faites cuire jusqu'à ce que l'odeur des feuilles disparaisse et que l'eau s'évapore.",
+      "Faites cuire les noix de palme 30 min, pilez et extrayez le jus en mélangeant à 2 gobelets d'eau.",
+      "Tamisez et versez le jus dans le pem, écrasez les aubergines.",
+      "Ajoutez l'ohomis et le sucre, attendez encore 20 min.",
+      "Servez avec le manioc."
+    ],
+    "prepTime": "45 minutes",
+    "cookTime": "1 heure 30 minutes",
+    "servings": 8,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Mbongo Tchobi",
+    "ingredients": [
+      { "name": "poisson (machoirons, silures, carpes ou anguilles)", "quantity": "1.5", "unit": "kg", "prix": "100" },
+      { "name": "djansan", "quantity": "50", "unit": "g", "prix": "100" },
+      { "name": "poudre de mbongo", "quantity": "25", "unit": "g", "prix": "100" },
+      { "name": "poudre d'écorce d'arbre à ail (hiomi)", "quantity": "1", "unit": "pincée", "prix": "100" },
+      { "name": "oignon", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "ail", "quantity": "1", "unit": "gousse", "prix": "100" },
+      { "name": "tomate", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "gingembre", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "basilic", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "cube de bouillon", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "huile de palme", "quantity": "10", "unit": "cl", "prix": "100" }
+    ],
+    "preparation": [
+      "Torréfiez les graines de djansan dans une poêle sans matière grasse, brûlez légèrement le mbongo.",
+      "Écrasez le tout avec le hiomi, basilic, cube d'assaisonnement et tomate.",
+      "Épluchez l'oignon, gingembre et ail, passez au mixer avec la pâte précédente.",
+      "Videz et lavez les poissons, coupez en morceaux et plongez dans la purée de mbongo. Laissez mariner 20 minutes.",
+      "Dans une cocotte, chauffez l'huile, versez le poisson et sa marinade, ajoutez un peu d'eau.",
+      "Salez, poivrez, mélangez, couvrez et laissez cuire à feu doux 30 minutes.",
+      "Servez chaud avec du riz ou du manioc, saupoudré de graines de sésame."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "30 minutes",
+    "servings": 6,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Met de Pistache",
+    "ingredients": [
+      { "name": "graines de courges séchées", "quantity": "1", "unit": "kg", "prix": "100" },
+      { "name": "poisson fumé", "quantity": "300", "unit": "g", "prix": "100" },
+      { "name": "eau", "quantity": "1", "unit": "litre", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "feuilles de bananiers", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "ficelle", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Préparez les feuilles de bananier en les trempant 5 minutes dans l'eau bouillante.",
+      "Nettoyez les poissons, enlevez la peau et trempez dans l'eau tiède.",
+      "Écrasez finement les graines de courge, mettez dans une terrine avec la moitié de l'eau.",
+      "Salez et ajoutez progressivement le reste d'eau. Égouttez le poisson et versez dans la terrine.",
+      "Placez les feuilles de bananier en croix au-dessus d'un bol.",
+      "Versez une portion de pâte, regroupez les bouts au centre et nouez avec la ficelle.",
+      "Faites cuire 2h à feu moyen."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "2 heures",
+    "servings": 6,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Mpele Macabo",
+    "ingredients": [
+      { "name": "macabo", "quantity": "2", "unit": "kg", "prix": "100" },
+      { "name": "huile de palme rouge", "quantity": "200", "unit": "ml", "prix": "100" },
+      { "name": "crevettes séchées", "quantity": "1", "unit": "poignée", "prix": "100" },
+      { "name": "eau", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "poisson fumé (bifaga)", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Triez, nettoyez et trempez les crevettes séchées dans l'eau.",
+      "Préparez le poisson fumé (enlevez la peau et les arêtes) et trempez dans l'eau.",
+      "Pelez et coupez le macabo en petits dés, lavez et mettez dans une cocotte.",
+      "Couvrez d'eau (l'eau doit à peine couvrir), salez et posez sur feu moyen.",
+      "Égouttez les crevettes et le poisson, ajoutez au macabo, mélangez bien.",
+      "Laissez bouillir 5-10mn, ajoutez l'huile de palme rouge, cuisez 15mn.",
+      "Mélangez délicatement toutes les 5mn pour éviter que ça colle.",
+      "Les liquides vont épaissir et enrober les tubercules.",
+      "Servez chaud."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "servings": 6,
+    "category": "Accompagnement"
+  },
+  {
+    "name": "Nfiang Ndo'o (Sauce de Noyaux de Mangue Sauvage)",
+    "ingredients": [
+      { "name": "maquereaux", "quantity": "500", "unit": "g", "prix": "100" },
+      { "name": "oignon", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "noyaux de mangue sauvage", "quantity": "100", "unit": "g", "prix": "100" },
+      { "name": "tomates", "quantity": "3", "unit": "", "prix": "100" },
+      { "name": "gingembre", "quantity": "1", "unit": "morceau", "prix": "100" },
+      { "name": "ail", "quantity": "1", "unit": "gousse", "prix": "100" },
+      { "name": "piment", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "huile d'arachide", "quantity": "3", "unit": "cuillères à soupe", "prix": "100" }
+    ],
+    "preparation": [
+      "Nettoyez, videz, ébarbez et coupez le poisson en darnes.",
+      "Égouttez et faites frire le poisson des 2 côtés dans l'huile bien chaude.",
+      "Écrasez finement les noyaux de mangue sauvage.",
+      "Écrasez ensemble la tomate, gingembre, ail, piment et oignon.",
+      "Faites chauffer 3 cuillères d'huile, cuisez la tomate écrasée 5 minutes.",
+      "Ajoutez la poudre de noyaux de mangues, mélangez, ajoutez 1 verre d'eau et cuisez 10 minutes.",
+      "Ajoutez délicatement les morceaux de poisson, laissez cuire 10 minutes.",
+      "Servez avec du riz, fufu de manioc ou de maïs."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "25 minutes",
+    "servings": 4,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Nkui + Couscous Maïs",
+    "ingredients": [
+      { "name": "farine de maïs", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "tiges de Nkui (écorces de triumfetta pentandra)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "Olom ou Hiomi (écorces de l'arbre ail)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "Mendak (graines de Monodora myristica)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "Melam (petits fruits voisins du poivre)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "Nsà nshu (petits fruits voisins du poivre)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "Nsù'nflù (fragments d'une racine tortueuse)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "Sùsùe (aubergines locales)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "Tshùtshe (fruit du Tetrapleura tetraptera)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "Sô (poivre sauvage)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "sel gemme", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "condiments divers", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "piment", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Couscous Maïs : Faites bouillir 10 litres d'eau, tamisez la farine en séparant le son.",
+      "Divisez l'eau en 2, mettez le son lavé dans une moitié, remuez jusqu'à obtenir une bouillie homogène.",
+      "Ajoutez la farine sous feu vif en remuant énergiquement.",
+      "Nkui : Nettoyez les tiges de Nkui, attachez-les en paquet et trempez dans l'eau chaude 15 minutes.",
+      "Écrasez les condiments en commençant par les plus durs.",
+      "Frottez les écorces de nkui pour obtenir la matière gluante.",
+      "Transvasez dans une marmite, battez vigoureusement en ajoutant les condiments écrasés.",
+      "Ajoutez le vinaigre de cendres et le sel gemme dissout."
+    ],
+    "prepTime": "45 minutes",
+    "cookTime": "1 heure",
+    "servings": 8,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Nnam Olis",
+    "ingredients": [
+      { "name": "pâte d'arachides grillée", "quantity": "200", "unit": "g", "prix": "100" },
+      { "name": "madjanga (écrevisses)", "quantity": "1", "unit": "bol", "prix": "100" },
+      { "name": "riz", "quantity": "200", "unit": "g", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "piment", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "feuilles de bananier", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "ficelle", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Faites griller les arachides et écrasez-les pour obtenir une pâte fine.",
+      "Triez et trempez les madjanga (écrevisses).",
+      "Faites cuire le riz à l'eau avec le sel.",
+      "Faites bouillir une marmite d'eau, prélevez-en la moitié et réservez.",
+      "Versez les madjangas et la pâte d'arachide dans l'eau bouillante restante.",
+      "Remuez énergiquement pour éviter les grumeaux, ajoutez progressivement l'autre moitié d'eau.",
+      "Cuisez 10 minutes à feu moyen en remuant, salez et ajoutez le piment.",
+      "Ajoutez le riz cuit et mélangez bien.",
+      "Formez une boule, mettez dans les feuilles de bananier, ficelez et cuisez à la vapeur 30 minutes."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "40 minutes",
+    "servings": 4,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Nnam Wondo (ou Nnam Owondo)",
+    "ingredients": [
+      { "name": "eau tiède", "quantity": "300", "unit": "ml", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "piment", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "pâte d'arachides grillée", "quantity": "200", "unit": "g", "prix": "100" },
+      { "name": "écrevisses ou poisson fumé ou viande fumée", "quantity": "200", "unit": "g", "prix": "100" },
+      { "name": "feuilles de bananier", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "ficelle", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Faites griller les arachides et écrasez-les pour obtenir une pâte fine.",
+      "Triez et trempez les madjanga (écrevisses).",
+      "Versez l'eau dans la marmite, quand elle bout, prélevez-en la moitié.",
+      "Ajoutez la protéine choisie et la pâte d'arachide dans l'eau bouillante restante.",
+      "Remuez énergiquement, ajoutez progressivement l'autre moitié d'eau.",
+      "Cuisez environ 10mn à feu moyen en remuant, salez et pimentez.",
+      "Formez une boule avec le mélange, mettez dans les feuilles de bananier.",
+      "Ficelez fermement et cuisez à la vapeur 30 minutes à feu doux.",
+      "Servez avec des bâtons de manioc ou du plantain."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "45 minutes",
+    "servings": 4,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Ndomba de Bar",
+    "ingredients": [
+      { "name": "filets de bar", "quantity": "4", "unit": "", "prix": "100" },
+      { "name": "échalote", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "tomate moyenne", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "citron vert", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "gingembre", "quantity": "1", "unit": "morceau", "prix": "100" },
+      { "name": "feuilles de messep (basilic)", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "poivre", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Préparez les feuilles de bananes en les faisant tiédir.",
+      "Levez vos filets de bar.",
+      "Écrasez l'échalote, la tomate, le basilic, le gingembre.",
+      "Râpez le zeste du citron, pressez son jus.",
+      "Répartissez la pâte obtenue sur les filets de poisson, salez, poivrez.",
+      "Fermez les papillotes et faites cuire 20 minutes.",
+      "Servez aussitôt, accompagnez d'une purée de patate douce."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "20 minutes",
+    "servings": 4,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Ndomba de Porc",
+    "ingredients": [
+      { "name": "jarret de porc", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "tomate", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "oignon", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "citron", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "feuilles Messep (basilic tropical)", "quantity": "4-5", "unit": "", "prix": "100" },
+      { "name": "feuilles d'Odzom (ou laurier)", "quantity": "3-4", "unit": "", "prix": "100" },
+      { "name": "gingembre", "quantity": "1", "unit": "petit morceau", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "piment", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "huile d'arachide", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Coupez la viande en morceaux, salez et faites frire 3-4 minutes dans l'huile chaude.",
+      "Égouttez et réservez.",
+      "Disposez les feuilles de bananiers dans un saladier, tapissez le fond d'odzom.",
+      "Posez les morceaux de porc frits dessus.",
+      "Arrosez avec le jus de citron, découpez la tomate et l'oignon finement au-dessus.",
+      "Ajoutez le gingembre haché, salez, ajoutez le piment et fermez la papillote.",
+      "Dans une casserole, versez de l'eau au 1/3, posez un grill ou saladier à l'envers.",
+      "Posez la papillote dessus, fermez et cuisez 35 minutes à feu moyen.",
+      "Servez avec du riz, des frites de plantain ou autre accompagnement."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "40 minutes",
+    "servings": 4,
+    "category": "Plat principal"
+  },
+  {
+    "name": "N'Dolé aux Crevettes",
+    "ingredients": [
+      { "name": "feuilles de Ndolé", "quantity": "2", "unit": "kg", "prix": "100" },
+      { "name": "viande ou poisson fumé", "quantity": "1", "unit": "kg", "prix": "100" },
+      { "name": "huile", "quantity": "0.5", "unit": "litre", "prix": "100" },
+      { "name": "pâte d'arachides", "quantity": "300", "unit": "g", "prix": "100" },
+      { "name": "crevettes séchées", "quantity": "150", "unit": "g", "prix": "100" },
+      { "name": "oignons", "quantity": "150", "unit": "g", "prix": "100" },
+      { "name": "sel gemme ou halite", "quantity": "20", "unit": "g", "prix": "100" },
+      { "name": "ail", "quantity": "3", "unit": "gousses", "prix": "100" },
+      { "name": "piment rouge", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "eau", "quantity": "1", "unit": "litre", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Faites cuire la viande dans de l'eau salée jusqu'à ce qu'elle soit tendre (1 heure environ).",
+      "Faites bouillir les feuilles de N'dolé dans une grande quantité d'eau avec du sel gemme pendant 30 minutes en remuant.",
+      "Enlevez les feuilles et lavez-les plusieurs fois, égouttez en pressant entre les doigts.",
+      "Décortiquez les arachides fraîches, trempez 2 heures puis écrasez très finement.",
+      "Hachez très finement les feuilles égouttées au couteau.",
+      "Mélangez les épices écrasées (tomate, concentré, ail, oignon, piment, basilic, sel et cube maggi).",
+      "Dans une grande marmite, faites chauffer l'huile d'arachides et jetez toutes les épices.",
+      "Remuez quelques minutes, puis ajoutez de l'eau, puis les arachides écrasées.",
+      "Ajoutez la viande cuite, poisson ou crevettes, faites chauffer à l'étouffée 30 minutes.",
+      "Ajoutez les feuilles de N'dolé écrasées, mélangez jusqu'à homogénéité.",
+      "Cuisez à l'étouffée en remuant régulièrement 20 minutes jusqu'à épaississement.",
+      "Avant de servir, faites frire de l'oignon émincé dans l'huile et versez sur le N'dolé."
+    ],
+    "prepTime": "25 minutes",
+    "cookTime": "32 minutes",
+    "servings": 6,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Okok Salé (Ikok)",
+    "ingredients": [
+      { "name": "feuilles d'Ikok prédécoupées", "quantity": "20", "unit": "tas", "prix": "100" },
+      { "name": "huile de palme", "quantity": "0.5", "unit": "litre", "prix": "100" },
+      { "name": "arachides", "quantity": "5", "unit": "tasses", "prix": "100" },
+      { "name": "morue fumée", "quantity": "2", "unit": "tas", "prix": "100" },
+      { "name": "viande de bœuf", "quantity": "0.5", "unit": "kg", "prix": "100" },
+      { "name": "piment", "quantity": "2", "unit": "fruits", "prix": "100" },
+      { "name": "ail", "quantity": "1", "unit": "gousse", "prix": "100" },
+      { "name": "gingembre", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "oignon", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "céleri", "quantity": "1-2", "unit": "branches", "prix": "100" },
+      { "name": "cubes Maggi crevette", "quantity": "2", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Lavez soigneusement les feuilles pour les débarrasser du sable, conservez dans un récipient perforé.",
+      "Découpez la viande, lavez. Dans une marmite, mettez la viande, sel, oignon et céleri découpés, cuisez à feu vif sans eau.",
+      "Quand la première eau de la viande est finie, ajoutez de l'eau pour parfaire la cuisson.",
+      "Nettoyez, lavez puis dépecez le poisson fumé.",
+      "Nettoyez le gingembre et l'ail avant de les écraser.",
+      "Grillez, dépulpez partiellement et écrasez les arachides.",
+      "Dans la marmite de viande, ajoutez le poisson, ail et gingembre écrasés, les 2 piments et 1 cube Maggi.",
+      "Remuez et ajoutez de l'eau en dépassant la limite de la viande, laissez bouillir.",
+      "Une fois l'eau bouillante, ajoutez progressivement les arachides écrasées, les feuilles d'Ikok en remuant lentement.",
+      "Ajoutez progressivement l'huile de palme au-dessus des feuilles.",
+      "Laissez la marmite à moitié ouverte, dès ébullition, remuez en vérifiant le niveau d'eau.",
+      "Pour avoir une onctuosité, laissez tarir l'eau en vérifiant le goût à feu doux.",
+      "Ajoutez le deuxième cube Maggi si nécessaire.",
+      "Quand l'huile remonte à la surface et que l'eau a tari, remuez puis éteignez le feu."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "1 heure 20 minutes",
+    "servings": 6,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Okok Sucré",
+    "ingredients": [
+      { "name": "Okok découpé", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "noix de palme", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "arachides", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "sucre", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "écrevisses", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Faites bouillir à feu moyen les noix de palme et les feuilles découpées d'Okock dans la même cuvette pendant 25-30 minutes.",
+      "Faites griller les arachides et écrasez-les en pâte homogène.",
+      "Pilez les noix cuites à point afin d'en extraire la pulpe par centrifugation.",
+      "Faites mijoter à feu moyen pendant 10-15 minutes le mélange pulpe de noix et pâte d'arachide.",
+      "Introduisez progressivement l'Okock dans le mélange précédent jusqu'à l'obtention d'un mélange homogène.",
+      "Laissez mijoter pendant 10-15 minutes à feu moyen jusqu'à formation d'une fine couche d'huile.",
+      "Ajoutez du sucre en fonction des goûts des consommateurs.",
+      "Servez chaud accompagné de bâton de manioc ou de manioc cuit à la vapeur."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "1 heure",
+    "servings": 4,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Pepper Soup",
+    "ingredients": [
+      { "name": "poisson", "quantity": "1", "unit": "kg", "prix": "100" },
+      { "name": "ail", "quantity": "2", "unit": "gousses", "prix": "100" },
+      { "name": "gingembre", "quantity": "1", "unit": "morceau", "prix": "100" },
+      { "name": "njansan", "quantity": "20", "unit": "g", "prix": "100" },
+      { "name": "mbongo", "quantity": "2", "unit": "gousses", "prix": "100" },
+      { "name": "ésèsè", "quantity": "5", "unit": "g", "prix": "100" },
+      { "name": "pèbè", "quantity": "10", "unit": "g", "prix": "100" },
+      { "name": "basilic", "quantity": "1", "unit": "branche", "prix": "100" },
+      { "name": "tomates", "quantity": "3", "unit": "", "prix": "100" },
+      { "name": "oignon", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "huile d'arachide", "quantity": "2", "unit": "cuillères à soupe", "prix": "100" },
+      { "name": "eau", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "piments", "quantity": "2", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Écaillez, videz et coupez vos poissons en darnes. Mettez-les dans une casserole, salez et réservez.",
+      "Écrasez finement vos épices et les tomates.",
+      "Mettez les morceaux de poisson au fond de la casserole et versez le mélange tomate et épices écrasés puis l'huile.",
+      "Ajoutez de l'eau jusqu'à ce que le poisson soit couvert, mélangez le tout et faites cuire à feu doux.",
+      "Laissez cuire doucement pendant 20 minutes. Rectifiez l'assaisonnement, salez, pimentez et laissez cuire à nouveau pendant 5 minutes.",
+      "Servez chaud accompagné de riz."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "25 minutes",
+    "servings": 4,
+    "category": "Plat principal"
+  },
+  {
+    "name": "Pilé de Plantains",
+    "ingredients": [
+      { "name": "haricots rouges ou noirs", "quantity": "500", "unit": "g", "prix": "100" },
+      { "name": "plantains mûrs", "quantity": "8", "unit": "doigts", "prix": "100" },
+      { "name": "eau", "quantity": "500", "unit": "ml", "prix": "100" },
+      { "name": "huile de palme rouge", "quantity": "250", "unit": "ml", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "piment", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Trempez les haricots dans un grand volume d'eau et laissez-les reposer 6 heures minimum.",
+      "Rincez-les et mettez-les dans une grande casserole avec beaucoup d'eau, cuisez à feu moyen.",
+      "Écrasez le piment et réservez.",
+      "Après 1 heure de cuisson, ajoutez les plantains préalablement lavés sans les éplucher.",
+      "Laissez l'ensemble cuire encore 1 heure.",
+      "Égouttez les haricots et épluchez les plantains.",
+      "Posez la casserole sur un endroit stable et maintenez-la fermement.",
+      "À l'aide d'un bâton de fufu, d'un pilon ou d'une spatule, pilez le mélange.",
+      "Faites chauffer l'huile de palme sans la blanchir juste pour la liquéfier.",
+      "Versez l'huile chaude sur le mélange de plantains et haricots.",
+      "Salez et pimentez, mélangez l'ensemble et servez."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "2 heures",
+    "servings": 6,
+    "category": "Accompagnement"
+  },
+  {
+    "name": "Pilé de Pommes de Terre",
+    "ingredients": [
+      { "name": "haricots rouges ou noirs", "quantity": "700", "unit": "g", "prix": "100" },
+      { "name": "pommes de terre", "quantity": "2", "unit": "kg", "prix": "100" },
+      { "name": "eau", "quantity": "500", "unit": "ml", "prix": "100" },
+      { "name": "huile de palme rouge", "quantity": "250", "unit": "ml", "prix": "100" },
+      { "name": "sel", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "piment", "quantity": "", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Trempez les haricots dans un grand volume d'eau et laissez-les reposer 6 heures minimum.",
+      "Rincez-les et faites-les cuire dans une casserole en les couvrant largement d'eau.",
+      "Pendant ce temps épluchez les pommes de terre, lavez-les et trempez-les dans de l'eau salée.",
+      "Lorsque les haricots sont cuits égouttez et rincez-les.",
+      "Écrasez le piment et réservez.",
+      "Égouttez les pommes de terre et faites-les cuire dans 500ml d'eau.",
+      "Lorsque les pommes de terre commencent à être molles, après environ 15 minutes de cuisson, ajoutez l'huile de palme et le piment et mélangez.",
+      "Incorporez ensuite les haricots cuits et mélangez.",
+      "Posez ensuite la casserole sur un endroit stable et maintenez-la fermement.",
+      "À l'aide d'un bâton de fufu, d'un pilon ou d'une spatule, pilez doucement ce mélange.",
+      "Vérifiez l'assaisonnement et pilez aussi finement que vous le désirez.",
+      "Dressez comme vous le voulez. Ce plat est traditionnellement dressé en boule.",
+      "Laissez un peu refroidir pour que le pilé durcisse, servez."
+    ],
+    "prepTime": "35 minutes",
+    "cookTime": "1 heure 15 minutes",
+    "servings": 6,
+    "category": "Accompagnement"
+  },
+  {
+    "name": "Pili Pili",
+    "ingredients": [
+      { "name": "farine", "quantity": "500", "unit": "g", "prix": "100" },
+      { "name": "levure", "quantity": "1", "unit": "sachet", "prix": "100" },
+      { "name": "beurre", "quantity": "50", "unit": "g", "prix": "100" },
+      { "name": "œufs", "quantity": "2", "unit": "", "prix": "100" },
+      { "name": "huile d'arachide", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "sel", "quantity": "1", "unit": "pincée", "prix": "100" },
+      { "name": "viande hachée", "quantity": "300", "unit": "g", "prix": "100" },
+      { "name": "oignon", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "ail", "quantity": "2", "unit": "gousses", "prix": "100" },
+      { "name": "piment", "quantity": "1", "unit": "", "prix": "100" },
+      { "name": "poivre", "quantity": "", "unit": "", "prix": "100" },
+      { "name": "tomate", "quantity": "1", "unit": "", "prix": "100" }
+    ],
+    "preparation": [
+      "Mélangez la farine, la levure, le sel et le beurre dans un grand bol.",
+      "Ajoutez les œufs battus et pétrissez en incorporant progressivement de l'eau tiède jusqu'à obtenir une pâte lisse.",
+      "Couvrez la pâte et laissez-la reposer pendant 30 minutes.",
+      "Pendant ce temps, faites chauffer 2 cuillères à soupe d'huile d'arachide dans une poêle.",
+      "Faites revenir l'oignon haché et l'ail écrasé jusqu'à ce qu'ils soient dorés.",
+      "Ajoutez la viande hachée, le piment et le poivre, puis faites cuire 10 minutes en remuant.",
+      "Incorporez la tomate écrasée et laissez mijoter 5 minutes. Réservez la farce.",
+      "Divisez la pâte en petites boules, étirez-les en cercles fins.",
+      "Placez une cuillère de farce au centre de chaque cercle, repliez et scellez les bords.",
+      "Faites frire les pili pili dans l'huile chaude jusqu'à ce qu'ils soient dorés des deux côtés.",
+      "Égouttez sur du papier absorbant et servez chaud."
+    ],
+    "prepTime": "40 minutes",
+    "cookTime": "20 minutes",
+    "servings": 4,
+    "category": "Accompagnement"
+  }
+]
