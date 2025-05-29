@@ -435,6 +435,7 @@ nav a:hover::after {
   background: none;
   border: none;
   font-size: var(--font-size-lg);
+  color: white;
   cursor: pointer;
   transition: var(--transition-fast);
   padding: var(--spacing-sm);
